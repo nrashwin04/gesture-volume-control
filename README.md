@@ -9,7 +9,6 @@
 ## How It Works
 
 ![Gesture positions diagram](demo-diagram.svg)
-
 | Gesture | Pinch ratio | Volume |
 |---------|-------------|--------|
 | Open hand | ratio > 1.2 | 100% |
