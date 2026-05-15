@@ -8,7 +8,7 @@
 
 ## How It Works
 
-![Gesture positions diagram](assets/demo_diagram.png)
+![Gesture positions diagram](demo-diagram.svg)
 
 | Gesture | Pinch ratio | Volume |
 |---------|-------------|--------|
@@ -59,19 +59,6 @@ cd gesture-volume-control
 ```bash
 pip install -r requirements.txt
 ```
-
-**macOS**
-```bash
-pip install opencv-python mediapipe numpy
-```
-
-**Linux**
-```bash
-pip install opencv-python mediapipe numpy
-sudo apt install alsa-utils
-```
-
----
 
 ## Usage
 
